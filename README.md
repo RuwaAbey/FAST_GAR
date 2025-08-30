@@ -29,3 +29,7 @@ effectiveness for group activity recognition.
 - PyTorch >= 2.7.1 (with CUDA 11.8 support)
 - TorchVision >= 0.22.1
 - TorchAudio >= 2.7.1
+
+##Train
+
+ython main_fused.py --config config/train_fused.yml
