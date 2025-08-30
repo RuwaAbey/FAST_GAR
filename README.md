@@ -22,3 +22,10 @@ extraction. Our model achieves accuracies of 88.63% and 86.91%
 on the Volleyball and Collective Activity dataset, respectively,
 surpassing several state-of-the-art approaches and validating its
 effectiveness for group activity recognition.
+
+## Dependencies
+
+- Python >= 3.13
+- PyTorch >= 2.7.1 (with CUDA 11.8 support)
+- TorchVision >= 0.22.1
+- TorchAudio >= 2.7.1
