@@ -1,4 +1,4 @@
-# FAS_GAR
+# FAST_GAR: Fused-Attention Spatio-Temporal Skeleton based Group Activity Recogntiion
 
 Group activity recognition (GAR) involves identify-
 ing activities performed by multiple individuals and remains a
