@@ -30,6 +30,7 @@ effectiveness for group activity recognition.
 - TorchVision >= 0.22.1
 - TorchAudio >= 2.7.1
 
-##Train
+## Train
 
-ython main_fused.py --config config/train_fused.yml
+```bash
+python main_fused.py --config config/train_fused.yml
